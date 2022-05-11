@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RyanStone2640/NodeJs/issues"
   },
-  "homepage": "https://github.com/RyanStone2640/NodeJs#readme"
+  "homepage": "https://github.com/RyanStone2640/NodeJs#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
