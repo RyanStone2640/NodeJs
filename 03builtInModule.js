@@ -1,6 +1,7 @@
 // nodejs內建module
 const path = require("path");
 
+
 // js內建模組
 console.log('dirname', __dirname);
 console.log('filename', __filename);
