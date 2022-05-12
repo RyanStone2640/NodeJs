@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/RyanStone2640/NodeJs#readme",
   "dependencies": {
-    "cowsay": "^1.5.0"
+    "cowsay": "^1.5.0",
+    "express": "^4.18.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
